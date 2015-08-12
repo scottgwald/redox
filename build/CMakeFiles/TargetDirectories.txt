@@ -1,0 +1,4 @@
+C:/Users/scottgwald/mygit/redox/build/CMakeFiles/redox.dir
+C:/Users/scottgwald/mygit/redox/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/scottgwald/mygit/redox/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/scottgwald/mygit/redox/build/CMakeFiles/redox_static.dir
